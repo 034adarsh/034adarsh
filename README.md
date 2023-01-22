@@ -15,8 +15,10 @@ I am also enrolled in online BS degree in data science and programming from IIT 
      Content writing, stock market, physics, business, data science.
      
 - 📫 How to reach me: ...
-    Email-adarsh36jnp@gmail.com
-    LinkedIn-https://www.linkedin.com/in/adarsh-kumar-singh-3aa172201/
+    Email- adarsh36jnp@gmail.com
+    
+    LinkedIn- https://www.linkedin.com/in/adarsh-kumar-singh-3aa172201/
+    
     Instagram- 09_ak_09
     
     
