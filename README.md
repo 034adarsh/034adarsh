@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### Adarsh this side
-I'm a freelance content writer at TeleCRM and a 3rd year B-tech (CSE) student @SRM university.
-I am also enrolled in online BS degree in data science and programming from IIT madras. 
-Ex reasearch intern @NUS and @HPE
+I'm a freelance content writer at TeleCRM and a 3rd year B-tech (CSE) student @SRM university ||
+I am also enrolled in online BS degree in data science and programming from IIT madras ||
+Ex reasearch intern @NUS and @HPE ||
 I am very passionate about data and it's growing power in modern world and willing to work in the field of data.
 
 - 🔭 I’m currently working on ...
