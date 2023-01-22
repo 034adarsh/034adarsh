@@ -23,4 +23,4 @@ I am also enrolled in online BS degree in data science and programming from IIT 
     
     
    
-[![GitHub Streak](https://streak-stats.demolab.com/?user=034adarsh)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=034adarsh&theme=highcontrast)](https://git.io/streak-stats)
