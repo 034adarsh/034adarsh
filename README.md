@@ -1,6 +1,9 @@
 ### Hi there 👋
-Myself Adarsh, I'm a freelance content writer at TeleCRM and a 3rd year B-tech (CSE) student @SRM university.
-I am also enrolled in online BS degree in data science and programming from IIT madras. I am very passionate about data and it's growing power in modern world and willing to work in the field of data. 
+### Adarsh this side
+I'm a freelance content writer at TeleCRM and a 3rd year B-tech (CSE) student @SRM university.
+I am also enrolled in online BS degree in data science and programming from IIT madras. 
+Ex reasearch intern @NUS and @HPE
+I am very passionate about data and it's growing power in modern world and willing to work in the field of data.
 
 - 🔭 I’m currently working on ...
      Research paper on detection of stock market manipluation using market structure. Market structure refers to the features of the market that determine      how it operates, such as the number and types of market participants, the degree of competition, and the level of transparency.  
