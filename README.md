@@ -18,6 +18,7 @@ I am very passionate about data and it's growing power in modern world and willi
      Content writing, stock market, physics, business, data science.
      
 - 📫 How to reach me: ...
+
     Email- adarsh36jnp@gmail.com
     
     LinkedIn- https://www.linkedin.com/in/adarsh-kumar-singh-3aa172201/
