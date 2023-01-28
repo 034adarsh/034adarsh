@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### Adarsh this side
+
 ![Header](./github-header-image-name.png)
+
 I'm a freelance content writer at TeleCRM and a 3rd year B-tech (CSE) student @SRM university ||
 I am also enrolled in online BS degree in data science and programming from IIT madras ||
 Ex reasearch intern @NUS and @HPE ||
