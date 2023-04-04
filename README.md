@@ -10,10 +10,10 @@ I am very passionate about data and it's growing power in modern world and willi
  <br>
 
 - 🔭 I’m currently working on ...
-     Research paper on detection of stock market manipluation using market structure. Market structure refers to the features of the market that determine      how it operates, such as the number and types of market participants, the degree of competition, and the level of transparency.  
+     Research project on detection of stock market manipluation using market structure. Market structure refers to the features of the market that determine      how it operates, such as the number and types of market participants, the degree of competition, and the level of transparency.  
      
 - 🌱 I’m currently learning ...
-     Full stack web-development and revising beginner to advanced level python
+     Full stack web-development and revising beginner to advanced level python to enhance my data science skills
      
 - 🤔 I’m looking for help with ...
      Content writing works and stock market learnings
