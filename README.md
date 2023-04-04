@@ -1,6 +1,6 @@
 ![Header](./github-header-image(1).png)
 
-I'm a freelance content writer at TeleCRM and a 3rd year B-tech (CSE) student @SRM university ||
+I'm a freelance content writer and a 3rd year B-tech (CSE) student @SRM university ||
 I am also enrolled in online BS degree in data science and programming from IIT madras ||
 Ex reasearch intern @NUS and @HPE ||
 I am very passionate about data and it's growing power in modern world and willing to work in the field of data.
