@@ -1,9 +1,11 @@
 ![Header](./github-header-image(1).png)
+An engineering scholar highly interested in the field of data science and analytics. 
 
-I'm a freelance content writer and a 3rd year B-tech (CSE) student @SRM university ||
-I am also enrolled in online BS degree in data science and programming from IIT madras ||
-Ex reasearch intern @NUS and @HPE ||
-I am very passionate about data and it's growing power in modern world and willing to work in the field of data.
+Driven by curiosity and backed by project-based learning methods, I am constantly trying to master my skills in data analytics and machine learning.
+
+Successfully completed a research-based internship at the National University of Singapore in the domain of data analysis. 
+
+In addition to my studies, I am a freelance content writer with two years of experience at my disposal, my zeal to write has not only helped me back some freelance projects but has also enriched my storytelling and visualization skills which prove to be a boon for my data science career.
 <h2><p align="center"> <img src="https://komarev.com/ghpvc/?username=034adarsh&label=Profile%20views&color=6805D3&style=flat" alt="Adarsh" /> 
   <img src="https://badges.pufler.dev/commits/monthly/034adarsh" />
  </p></h2>
