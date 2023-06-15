@@ -53,8 +53,7 @@ In addition to my studies, I am a freelance content writer with two years of exp
      
 ## 🏆GitHub Analytics 
 <p align="center">
-<a href="https://github.com/034adarsh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=034adarsh&count_private=true&show_icons=true&theme=gruvbox" />
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=034adarsh&theme=gruvbox&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=034adarsh&theme=gruvbox"/>
 </a>
