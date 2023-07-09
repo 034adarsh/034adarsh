@@ -1,9 +1,9 @@
-
+![Header](./github-header-image(1).png)
 An engineering scholar highly interested in the field of data science and analytics. 
 
-Driven by curiosity and backed by project-based learning methods, I am constantly trying to master my skills in data analytics and machine learning.
+Driven by curiosity and backed by project-based learning methods, I am constantly trying to master my data analytics and machine learning skills.
 
-Successfully completed a research-based internship at the National University of Singapore in the domain of data analysis. 
+I successfully completed a research-based internship at the National University of Singapore in data analysis. 
 
 In addition to my studies, I am a freelance content writer with two years of experience at my disposal, my zeal to write has not only helped me back some freelance projects but has also enriched my storytelling and visualization skills which prove to be a boon for my data science career.
 <h2><p align="center"> <img src="https://komarev.com/ghpvc/?username=034adarsh&label=Profile%20views&color=6805D3&style=flat" alt="Adarsh" /> 
@@ -12,7 +12,7 @@ In addition to my studies, I am a freelance content writer with two years of exp
  <br>
 
 - 🔭 I’m currently working on ...
-     Research project on detection of stock market manipluation using market structure. Market structure refers to the features of the market that determine      how it operates, such as the number and types of market participants, the degree of competition, and the level of transparency.  
+     Research project on detection of stock market manipulation using market structure. Market structure refers to the features of the market that determine      how it operates, such as the number and types of market participants, the degree of competition, and the level of transparency.  
      
 - 🌱 I’m currently learning ...
      Full stack web-development and revising beginner to advanced level python to enhance my data science skills
