@@ -1,4 +1,5 @@
 ![Header](./github-header-image(1).png)
+
 An engineering scholar highly interested in the field of data science and analytics. 
 
 Driven by curiosity and backed by project-based learning methods, I am constantly trying to master my data analytics and machine learning skills.
