@@ -8,7 +8,6 @@ In addition to my studies, I am a freelance content writer with two years of exp
 <h2><p align="center"> <img src="https://komarev.com/ghpvc/?username=034adarsh&label=Profile%20views&color=6805D3&style=flat" alt="Adarsh" /> 
   <img src="https://badges.pufler.dev/commits/monthly/034adarsh" />
  </p></h2>
- <br>
 
 ### 🌱 I’m currently exploring:
 - Advanced **Machine Learning** techniques, focusing on solving real-world challenges in **Finance**, **Healthcare**, and **Legal Tech**.
